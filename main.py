@@ -9,6 +9,7 @@ def print_hi(name):
     print(f"Hi, {name}")  # Press Ctrl+F8 to toggle the breakpoint.
     #testing
     print("I guess this is an edit too")
+    print("this is another edit")
 
 
 # Press the green button in the gutter to run the script.
